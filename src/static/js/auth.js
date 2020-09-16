@@ -1,5 +1,5 @@
 var OKTA_SETTINGS = {
-  baseUrl: "https://loving-bartik-995f3c.netlify.app/",
+  baseUrl: "https://dev-846906.okta.com",
   clientId: "0oayzir5etlgHO2Yk4x6",
   issuer: "https://dev-846906.okta.com/oauth2/default"
 };
